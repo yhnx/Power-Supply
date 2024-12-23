@@ -20,7 +20,7 @@ Contains project-related files and resources.
 - **Enclosure/**
   - [`Assem1.SLDASM`](./DM_27/Enclosure/Assem1.SLDASM): SolidWorks assembly file for the enclosure.
   - [`Part1.SLDPRT`](./DM_27/Enclosure/Part1.SLDPRT): SolidWorks part file for the enclosure.
-  - [`TOP.SLDPRT`](./DM_27/Enclosure/TOP.SLDPRT): Top enclosure SolidWorks part file.
+  - [`TOP.SLDPRT`](./DM_27/Enclosure/TOP.SLDPRT): SolidWorks part file for the enclosure.
   - [`bottom part.DXF`](./DM_27/Enclosure/bottom%20part.DXF): DXF file for the bottom part of the enclosure.
   - [`top part.DXF`](./DM_27/Enclosure/top%20part.DXF): DXF file for the top part of the enclosure.
 
