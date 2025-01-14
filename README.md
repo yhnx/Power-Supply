@@ -44,7 +44,7 @@ Contains project-related files and resources.
 ---
 
 ### The team behind 
-Yehen Asuramuni ([@yhnx](https://github.com/yhnx))
-Sineth Jayawardena ([@SinethS](https://github.com/sineths))
-Oshada Nimatha ([@Oshadha-Nimantha](https://github.com/Oshadha-Nimantha))
-Agrajith Weeragoda
+* Yehen Asuramuni ([@yhnx](https://github.com/yhnx))
+* Sineth Jayawardena ([@SinethS](https://github.com/sineths))
+* Oshada Nimatha ([@Oshadha-Nimantha](https://github.com/Oshadha-Nimantha))
+* Agrajith Weeragoda
