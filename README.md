@@ -42,3 +42,9 @@ Contains project-related files and resources.
 5. **Documentation**: Refer to the `Presentation_27.pptx`, `Project_Proposal.pdf`, and `Project_report_27.pdf` for project insights.
 
 ---
+
+### The team behind 
+Yehen Asuramuni ([@yhnx](https://github.com/yhnx))
+Sineth Jayawardena ([@SinethS](https://github.com/sineths))
+Oshada Nimatha ([@Oshadha-Nimantha](https://github.com/Oshadha-Nimantha))
+Agrajith Weeragoda
